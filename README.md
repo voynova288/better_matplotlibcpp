@@ -4,7 +4,7 @@ matplotlib-cpp
 Welcome to matplotlib-cpp, possibly the simplest C++ plotting library.
 It is built to resemble the plotting API used by Matlab and matplotlib.
 
-
+下载的matplotlibcpp是基于python2写的，bug太多了。我自己改了好多
 
 Usage
 -----
